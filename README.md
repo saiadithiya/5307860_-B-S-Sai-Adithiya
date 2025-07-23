@@ -5,4 +5,4 @@
 I successfully completed the **"Agile for Beginners"** course offered by **Great Learning**.  
 Below is the completion screenshot:
 
-![Agile Course Certificate](SDLC%20COMPLETION.png)
+![Agile Course Certificate](sdlc_certificate.png)
